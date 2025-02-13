@@ -1,6 +1,7 @@
 # 💻 GAN based Generation Project
 #### Origin Project: AI-Based Art Creation (DCGAN & ViT)
 #### Data Preprocessing and Data Modeling in origin project
+##### 📢📢DCGAN.ipynb file that documents the training of the DCGAN algorithm. However, the file size is too large. So if you want to check this code, you will need to download it first (っ °Д °;)っ
 ***
 ## ✔ AI-Based Art Creation project has main objectices
 >* ### Minimizing Damage to Existing Artwork and Creating New Art through Restoration.   
